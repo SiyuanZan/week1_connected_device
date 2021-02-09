@@ -1,0 +1,46 @@
+/*week1 class Connected Devices and Networked Interaction
+ * reference from https://github.com/tigoe/html-for-conndev/blob/main/serialport/
+ * Siyuan Zan 07/02/2021
+ */
+
+input {
+    position: sticky;
+    left: 120px;
+  }
+  
+  span {
+    position: sticky;
+    left: 300px;
+  }
+  
+  section#figures {
+    display: flex;
+  }
+  
+  section#controls {
+    padding: 20px;
+  }
+  
+  figcaption {
+    font-style: italic;
+  }
+
+  h1 {
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: blueviolet;
+  }
+
+
+  /* #panel1{
+    color: blue;
+    background-color: blueviolet;
+    font-size: 30px;
+
+
+  }
+
+  #spanel2{
+
+    font-size: 30px;
+  } */
+
